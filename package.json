@@ -1,0 +1,23 @@
+{
+  "name": "@hachai-ux/dropdown-menu",
+  "version": "1.0.0",
+  "description": "Dropdown Menu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hachai-ux/dropdown-menu-npm-package.git"
+  },
+  "keywords": [
+    "dropdown",
+    "menu"
+  ],
+  "author": "hachai-ux",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hachai-ux/dropdown-menu-npm-package/issues"
+  },
+  "homepage": "https://github.com/hachai-ux/dropdown-menu-npm-package#readme"
+}
